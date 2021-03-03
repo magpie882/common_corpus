@@ -1,2 +1,2 @@
 # common_corpus
-This is a colleciton of natural language processing projects that focus on the language used around depression.
+This is a collection of natural language processing projects that focus on the language used around depression and other mental issues.
